@@ -20,9 +20,9 @@ st.sidebar.markdown("**📦 Stock_On_Hand**: The POTATO SIFRA (WASHED) stock cur
 
 # Streamlit interface
 st.title("🥔 POTATO SIFRA (WASHED) Average Price Prediction")
-st.image("")
+st.image("PotatoWashed.webp")
 
-background_image_url = ""
+background_image_url = "PotatoWashed.webp"
 background_css = f"""
 <style>
     .stApp {{
