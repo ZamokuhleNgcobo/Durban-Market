@@ -22,7 +22,7 @@ st.sidebar.markdown("**📦 Stock_On_Hand**: The POTATO SIFRA (WASHED) stock cur
 st.title("🥔 POTATO SIFRA (WASHED) Average Price Prediction")
 st.image("PotatoWashed.webp")
 
-background_image_url = "PotatoWashed.webp"
+background_image_url = "Types-Of-Potatoes_instagram.webp"
 background_css = f"""
 <style>
     .stApp {{
